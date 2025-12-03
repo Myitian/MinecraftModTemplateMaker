@@ -1,6 +1,8 @@
 # MinecraftModTemplateMaker
 Generate and extract template projects from my custom example mod format.
 
+This program uses simple string replacement to fill in placeholders, so errors may occur when entering certain special names.
+
 | Name in example mod        | Placeholder in template ZIP |
 | -------------------------- | --------------------------- |
 | `net.example.examplemodid` | `!@PKG`                     |
