@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TemplateExtractor/TemplateExtractor.csproj" />
+  <Project Path="TemplateGenerator/TemplateGenerator.csproj" />
+</Solution>
